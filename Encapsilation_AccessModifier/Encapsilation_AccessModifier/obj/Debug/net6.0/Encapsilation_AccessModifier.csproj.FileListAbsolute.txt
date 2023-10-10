@@ -1,0 +1,14 @@
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\obj\Debug\net6.0\Encapsilation_AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\obj\Debug\net6.0\Encapsilation_AccessModifier.AssemblyInfoInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\obj\Debug\net6.0\Encapsilation_AccessModifier.AssemblyInfo.cs
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\obj\Debug\net6.0\Encapsilation_AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\bin\Debug\net6.0\Encapsilation_AccessModifier.exe
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\bin\Debug\net6.0\Encapsilation_AccessModifier.deps.json
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\bin\Debug\net6.0\Encapsilation_AccessModifier.runtimeconfig.json
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\bin\Debug\net6.0\Encapsilation_AccessModifier.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\bin\Debug\net6.0\Encapsilation_AccessModifier.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\obj\Debug\net6.0\Encapsilation_AccessModifier.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\obj\Debug\net6.0\refint\Encapsilation_AccessModifier.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\obj\Debug\net6.0\Encapsilation_AccessModifier.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\obj\Debug\net6.0\Encapsilation_AccessModifier.genruntimeconfig.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Encapsilation\Encapsilation_AccessModifier\Encapsilation_AccessModifier\obj\Debug\net6.0\ref\Encapsilation_AccessModifier.dll
